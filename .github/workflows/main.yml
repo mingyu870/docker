@@ -5,7 +5,7 @@ on:
     branches:
       - '-main'
     tags:
-      - 'docker'
+      - '**'
 
 jobs:
   build:
